@@ -7,8 +7,7 @@ __pycache__/
 venv/
 env/
 
-# Ignore Excel files (since they change frequently)
-data/*.xlsx
+
 
 # Ignore system files
 .DS_Store
