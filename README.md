@@ -1,4 +1,13 @@
+
 # 🚀 Fetching and Analyzing Top 50 Live Cryptocurrency Data
+
+✨ Author
+👤 Aamir Lone
+📧 Email: aamirlone004@gmail.com
+💼 LinkedIn: linkedin.com/in/aamir-lone/
+🐙 GitHub: github.com/Aamir-Lone
+
+
 
 This project fetches live cryptocurrency data, analyzes it, and updates an Excel sheet automatically every 5 minutes.
 
@@ -56,3 +65,8 @@ crypto-analysis/
 │── run.py                         # Main script to run everything
 
 
+✨ Author
+👤 Aamir Lone
+📧 Email: aamirlone004@gmail.com
+💼 LinkedIn: linkedin.com/in/aamir-lone/
+🐙 GitHub: github.com/Aamir-Lone
