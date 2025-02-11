@@ -1,0 +1,12 @@
+crypto-analysis
+├── config
+│   └── settings.py
+├── data
+├── README.md
+├── reports
+├── requirements.txt
+├── run.py
+└── scripts
+    ├── analyze_data.py
+    ├── fetch_crypto.py
+    └── update_excel.py

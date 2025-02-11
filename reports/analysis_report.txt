@@ -1,0 +1,16 @@
+📊 Cryptocurrency Analysis Report
+========================================
+
+🔹 **Top 5 Cryptocurrencies by Market Cap**
+Cryptocurrency Name  Market Capitalization
+            Bitcoin          1902844638666
+           Ethereum           317571109895
+             Tether           141857841266
+                XRP           139526496870
+             Solana            96291255525
+
+🔹 **Average Price of Top 50 Cryptos:** $4163.55
+
+🔹 **Highest 24h Price Change:** Cardano (8.39%)
+
+🔹 **Lowest 24h Price Change:** Aptos (-4.80%)
