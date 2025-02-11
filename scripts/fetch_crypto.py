@@ -29,6 +29,15 @@ def process_data(data):
     }, inplace=True)
     
     return df
+def save_to_excel(df):
+    """Saves the processed cryptocurrency data to an Excel file."""
+    data_dir = os.path.join(os.path.dirname(__file__), "../data")
+    os.makedirs(data_dir, exist_ok=True)  # Ensure the directory exists
+    file_path = os.path.join(data_dir, "live_crypto_data.xlsx")
+
+    df.to_excel(file_path, index=False)
+    print(f"✅ Data saved to {file_path}")
+
 
 if __name__ == "__main__":
     crypto_data = fetch_crypto_data()
