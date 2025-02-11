@@ -38,30 +38,6 @@ def analyze_data(file_path, save_report=True):
     except Exception as e:
         print(f"❌ Error analyzing data: {e}")
 
-# def save_analysis_report(top_5, avg_price, highest_change, lowest_change):
-#     """Saves the analysis report as a text file."""
-#     # report_path = "../reports/analysis_report.txt"
-#     # Ensure the reports directory exists
-#     reports_dir = os.path.join(os.path.dirname(__file__), "../reports")
-#     os.makedirs(reports_dir, exist_ok=True)
-
-#     # Define the report file path
-#     report_path = os.path.join(reports_dir, "analysis_report.txt")
-    
-#     with open(report_path, "w") as file:
-#         file.write("📊 Cryptocurrency Analysis Report\n")
-#         file.write("="*40 + "\n")
-        
-#         file.write("\n🔹 **Top 5 Cryptocurrencies by Market Cap**\n")
-#         file.write(top_5[["Cryptocurrency Name", "Market Capitalization"]].to_string(index=False))
-        
-#         file.write(f"\n\n🔹 **Average Price of Top 50 Cryptos:** ${avg_price:.2f}")
-        
-#         file.write(f"\n\n🔹 **Highest 24h Price Change:** {highest_change['Cryptocurrency Name']} ({highest_change['24h Price Change (%)']:.2f}%)")
-        
-#         file.write(f"\n\n🔹 **Lowest 24h Price Change:** {lowest_change['Cryptocurrency Name']} ({lowest_change['24h Price Change (%)']:.2f}%)")
-
-#     print(f"✅ Analysis report saved at: {report_path}")
 def save_analysis_report(top_5, avg_price, highest_change, lowest_change):
     """Saves the analysis report as a text file with UTF-8 encoding."""
     import os

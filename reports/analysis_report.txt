@@ -3,14 +3,14 @@
 
 🔹 **Top 5 Cryptocurrencies by Market Cap**
 Cryptocurrency Name  Market Capitalization
-            Bitcoin          1886193112039
-           Ethereum           312574503214
-             Tether           141856312740
-                XRP           137862394698
-             Solana            95456125992
+            Bitcoin          1888239103263
+           Ethereum           313134014470
+             Tether           141856172380
+                XRP           138587566556
+             Solana            95581775271
 
-🔹 **Average Price of Top 50 Cryptos:** $4121.22
+🔹 **Average Price of Top 50 Cryptos:** $4128.78
 
-🔹 **Highest 24h Price Change:** Cardano (8.92%)
+🔹 **Highest 24h Price Change:** Cardano (9.56%)
 
-🔹 **Lowest 24h Price Change:** Aptos (-5.87%)
+🔹 **Lowest 24h Price Change:** Aptos (-5.66%)
